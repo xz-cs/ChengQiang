@@ -1,0 +1,18 @@
+[12-Nov-2020 16:03:32 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:03:32 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:03:33 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:03:33 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:03:37 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:03:37 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:03:50 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:03:50 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:04:02 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:04:02 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:04:08 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:04:08 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:04:11 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:04:11 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:04:11 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:04:11 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[12-Nov-2020 16:04:17 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
+[12-Nov-2020 16:04:17 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
