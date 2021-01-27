@@ -39,6 +39,7 @@
         "docs": "https://flarum.org/docs/"
     },
     "require": {
+        "antoinefr/flarum-ext-bbcode-fa": "^0.2.1",
         "csineneo/lang-simplified-chinese": "^1.13",
         "dotronglong/flarum-hide-me": "^0.0.4",
         "flagrow/upload": "^0.7.1",
@@ -70,7 +71,8 @@
         "mskian/tasklist": "^0.0.4",
         "therealsujitk/flarum-ext-gifs": "^1.4",
         "therealsujitk/flarum-ext-show-password": "^1.0",
-        "v17development/flarum-seo": "^1.2"
+        "v17development/flarum-seo": "^1.2",
+        "antoinefr/flarum-ext-money": "0.10.0"
     },
     "config": {
         "preferred-install": "dist",

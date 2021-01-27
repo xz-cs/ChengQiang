@@ -1,18 +1,8 @@
-[12-Nov-2020 16:03:32 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:03:32 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:03:33 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:03:33 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:03:37 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:03:37 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:03:50 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:03:50 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:04:02 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:04:02 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:04:08 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:04:08 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:04:11 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:04:11 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:04:11 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:04:11 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
-[12-Nov-2020 16:04:17 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 41
-[12-Nov-2020 16:04:17 UTC] PHP Notice:  Trying to get property 'message' of non-object in /home/bzls8g1evy0v/public_html/forum/vendor/s9e/text-formatter/src/Renderer.php on line 46
+[17-Jan-2021 12:56:22 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:56:24 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:57:11 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:57:14 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:57:18 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:58:54 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 13:00:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2621440 bytes) in /home/bzls8g1evy0v/public_html/forum/storage/less/lessphp_qt3harnt7jksg8c80cgksc4gg404ksg.lesscache on line 3
+[20-Jan-2021 13:37:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2621440 bytes) in /home/bzls8g1evy0v/public_html/forum/storage/less/lessphp_qt3harnt7jksg8c80cgksc4gg404ksg.lesscache on line 3

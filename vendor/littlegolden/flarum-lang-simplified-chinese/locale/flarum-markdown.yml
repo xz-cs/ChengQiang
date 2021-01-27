@@ -22,9 +22,16 @@ flarum-markdown:
       center_tooltip: 居中文本
       outurl_tooltip: 外链
       font_size_tooltip: 字号
+      font_family_tooltip: 字体
       font_color_tooltip: 字色
+      bg_color_tooltip: 背景色
       space_half_tooltip: 半角空格
       space_full_tooltip: 全角空格
       hr_line_tooltip: 水平线
-      quote_auth_tooltip: 带有作者的引用
+      quote_auth_tooltip: 带作者的引用
+      spoiler_tooltip: 隐藏内容
+      ruby_tooltip: 顶部注释
+      table_tooltip: 插入表格
+      heimu_tooltip: 黑幕文字
+      
       

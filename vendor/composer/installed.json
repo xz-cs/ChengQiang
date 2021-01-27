@@ -459,20 +459,6 @@
             "php",
             "redis",
             "xcache"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Fcache",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -576,20 +562,6 @@
             "sqlite",
             "sqlserver",
             "sqlsrv"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Fdbal",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -674,20 +646,6 @@
             "event manager",
             "event system",
             "events"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Fevent-manager",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -774,20 +732,6 @@
             "strings",
             "uppercase",
             "words"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Finflector",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -858,20 +802,6 @@
             "lexer",
             "parser",
             "php"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Flexer",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1320,20 +1250,6 @@
         "description": "Make discussions and posts require moderator approval.",
         "keywords": [
             "moderation"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1389,20 +1305,6 @@
         "description": "Allow users to log in with Facebook.",
         "keywords": [
             "Authentication"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1458,20 +1360,6 @@
         "description": "Allow users to log in with GitHub.",
         "keywords": [
             "Authentication"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1527,20 +1415,6 @@
         "description": "Allow users to log in with Twitter.",
         "keywords": [
             "Authentication"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1590,20 +1464,6 @@
         "description": "Allow posts to be formatted with BBCode.",
         "keywords": [
             "formatting"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1726,20 +1586,6 @@
         "keywords": [
             "discussion",
             "forum"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1788,20 +1634,6 @@
         "description": "Convert text and unicode emoji into Twemoji.",
         "keywords": [
             "formatting"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1856,20 +1688,6 @@
         "description": "Allow users to flag posts for moderator review.",
         "keywords": [
             "moderation"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1924,20 +1742,6 @@
         "description": "English language pack.",
         "keywords": [
             "locale"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1992,20 +1796,6 @@
         "description": "Allow users to like posts.",
         "keywords": [
             "discussion"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2060,20 +1850,6 @@
         "description": "End a discussion and don't let anyone add further replies.",
         "keywords": [
             "moderation"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2126,20 +1902,6 @@
         "description": "Allow posts to be formatted with Markdown.",
         "keywords": [
             "formatting"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2194,20 +1956,6 @@
         "description": "Mention and reply to specific posts and users.",
         "keywords": [
             "discussion"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2266,20 +2014,6 @@
         "description": "See new discussions and posts in real-time using Pusher.",
         "keywords": [
             "discussion"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2334,20 +2068,6 @@
         "description": "Add a basic statistics widget on the Dashboard.",
         "keywords": [
             "administration"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2402,20 +2122,6 @@
         "description": "Pin discussions to the top of the list.",
         "keywords": [
             "discussion"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2470,20 +2176,6 @@
         "description": "Allow users to follow discussions and receive notifications for new posts.",
         "keywords": [
             "discussion"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2538,20 +2230,6 @@
         "description": "Suspend users so they can't post.",
         "keywords": [
             "moderation"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2606,20 +2284,6 @@
         "description": "Organize discussions into a hierarchy of tags and categories.",
         "keywords": [
             "discussion"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/flarum",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/flarum",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/flarum/core",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -2793,12 +2457,6 @@
         "description": "Customize TextFormatter with plugins through the admin interface",
         "keywords": [
             "flarum"
-        ],
-        "funding": [
-            {
-                "url": "https://opencollective.com/fof",
-                "type": "open_collective"
-            }
         ]
     },
     {
@@ -2867,12 +2525,6 @@
         "description": "Manage Flarum primary navbar menu links",
         "keywords": [
             "flarum"
-        ],
-        "funding": [
-            {
-                "url": "https://opencollective.com/fof",
-                "type": "open_collective"
-            }
         ]
     },
     {
@@ -2945,12 +2597,6 @@
         "description": " A Flarum extension that adds polls to your discussions",
         "keywords": [
             "flarum"
-        ],
-        "funding": [
-            {
-                "url": "https://opencollective.com/fof",
-                "type": "open_collective"
-            }
         ]
     },
     {
@@ -3023,12 +2669,6 @@
         "description": "Allow cropping when uploading profile picture",
         "keywords": [
             "flarum"
-        ],
-        "funding": [
-            {
-                "url": "https://opencollective.com/fof",
-                "type": "open_collective"
-            }
         ]
     },
     {
@@ -4453,21 +4093,7 @@
                 "email": "kylekatarnls@gmail.com"
             }
         ],
-        "description": "Update helper",
-        "funding": [
-            {
-                "url": "https://github.com/kylekatarnls",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/Carbon",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/nesbot/carbon",
-                "type": "tidelift"
-            }
-        ]
+        "description": "Update helper"
     },
     {
         "name": "laminas/laminas-diactoros",
@@ -4674,12 +4300,6 @@
             "mezzio",
             "psr-15",
             "psr-7"
-        ],
-        "funding": [
-            {
-                "url": "https://funding.communitybridge.org/projects/laminas-project",
-                "type": "community_bridge"
-            }
         ]
     },
     {
@@ -4822,12 +4442,6 @@
             "autoloading",
             "laminas",
             "zf"
-        ],
-        "funding": [
-            {
-                "url": "https://funding.communitybridge.org/projects/laminas-project",
-                "type": "community_bridge"
-            }
         ]
     },
     {
@@ -4921,12 +4535,6 @@
             "s3",
             "sftp",
             "storage"
-        ],
-        "funding": [
-            {
-                "url": "https://offset.earth/frankdejonge",
-                "type": "other"
-            }
         ]
     },
     {
@@ -4976,17 +4584,7 @@
                 "email": "info@frankdejonge.nl"
             }
         ],
-        "description": "Mime-type detection for Flysystem",
-        "funding": [
-            {
-                "url": "https://github.com/frankdejonge",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/league/flysystem",
-                "type": "tidelift"
-            }
-        ]
+        "description": "Mime-type detection for Flysystem"
     },
     {
         "name": "league/oauth1-client",
@@ -5770,16 +5368,6 @@
             "log",
             "logging",
             "psr-3"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/Seldaek",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/monolog/monolog",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -6996,21 +6584,7 @@
             }
         ],
         "description": "Symfony Config Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/console",
@@ -7095,21 +6669,7 @@
             }
         ],
         "description": "Symfony Console Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/css-selector",
@@ -7170,21 +6730,7 @@
             }
         ],
         "description": "Symfony CssSelector Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/debug",
@@ -7249,21 +6795,7 @@
             }
         ],
         "description": "Symfony Debug Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/event-dispatcher",
@@ -7341,21 +6873,7 @@
             }
         ],
         "description": "Symfony EventDispatcher Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/event-dispatcher-contracts",
@@ -7425,20 +6943,6 @@
             "interfaces",
             "interoperability",
             "standards"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -7497,21 +7001,7 @@
             }
         ],
         "description": "Symfony Filesystem Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/finder",
@@ -7568,21 +7058,7 @@
             }
         ],
         "description": "Symfony Finder Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/http-foundation",
@@ -7645,21 +7121,7 @@
             }
         ],
         "description": "Symfony HttpFoundation Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/mime",
@@ -7730,20 +7192,6 @@
         "keywords": [
             "mime",
             "mime-type"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -7814,20 +7262,6 @@
             "ctype",
             "polyfill",
             "portable"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -7899,20 +7333,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -7992,20 +7412,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8081,20 +7487,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8166,20 +7558,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8251,20 +7629,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8332,20 +7696,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8416,20 +7766,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8504,20 +7840,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8575,21 +7897,7 @@
             }
         ],
         "description": "Symfony Process Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/service-contracts",
@@ -8659,20 +7967,6 @@
             "interfaces",
             "interoperability",
             "standards"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -8751,21 +8045,7 @@
             }
         ],
         "description": "Symfony Translation Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/yaml",
@@ -8832,21 +8112,7 @@
             }
         ],
         "description": "Symfony Yaml Component",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "therealsujitk/flarum-ext-gifs",

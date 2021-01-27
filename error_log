@@ -1,0 +1,124 @@
+[10-Jan-2021 13:29:41 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bzls8g1evy0v/public_html/forum/extend.php:154
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 154
+[10-Jan-2021 13:29:50 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bzls8g1evy0v/public_html/forum/extend.php:154
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 154
+[17-Jan-2021 12:34:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Flarum\Extend\ApiSerializer' not found in /home/bzls8g1evy0v/public_html/forum/extend.php:315
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 315
+[17-Jan-2021 12:34:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Flarum\Extend\ApiSerializer' not found in /home/bzls8g1evy0v/public_html/forum/extend.php:315
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 315
+[17-Jan-2021 12:34:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Flarum\Extend\ApiSerializer' not found in /home/bzls8g1evy0v/public_html/forum/extend.php:315
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 315
+[17-Jan-2021 12:43:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Flarum\Extend\ApiSerializer' not found in /home/bzls8g1evy0v/public_html/forum/extend.php:316
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Flarum\Extend\ApiSerializer' not found in /home/bzls8g1evy0v/public_html/forum/extend.php:316
+Stack trace:
+#0 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(64): require()
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Site.php(34): Flarum\Foundation\Site::loadExtenders('/home/bzls8g1ev...')
+#2 /home/bzls8g1evy0v/public_html/forum/site.php(47): Flarum\Foundation\Site::fromPaths(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/flarum(11): require('/home/bzls8g1ev...')
+#4 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 12:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 12:49:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 12:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 12:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 12:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 12:56:19 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ')' in /home/bzls8g1evy0v/public_html/forum/extend.php on line 316
+[17-Jan-2021 12:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Closure::extend() in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php:149
+Stack trace:
+#0 [internal function]: Flarum\Foundation\InstalledSite->Flarum\Foundation\{closure}(Object(Flarum\Foundation\Application))
+#1 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(620): call_user_func(Object(Closure), Object(Flarum\Foundation\Application))
+#2 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/Application.php(561): Flarum\Foundation\Application->fireAppCallbacks(Array)
+#3 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(153): Flarum\Foundation\Application->boot()
+#4 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php(82): Flarum\Foundation\InstalledSite->bootLaravel()
+#5 /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Console/Server.php(34): Flarum\Foundation\InstalledSite->bootApp()
+#6 / in /home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/src/Foundation/InstalledSite.php on line 149
+[17-Jan-2021 13:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Flarum\Extend\Frontend' not found in /home/bzls8g1evy0v/public_html/forum/extend.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bzls8g1evy0v/public_html/forum/extend.php on line 19

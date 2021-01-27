@@ -11,27 +11,39 @@ String.prototype.startsWith||Object.defineProperty(String.prototype,"startsWith"
  */
 app.initializers.add("flarum-markdown",(function(e){var t=1;Object(i.extend)(l.a.prototype,"init",(function(){this.textareaId="textarea"+t++})),Object(i.extend)(l.a.prototype,"view",(function(e){e.children[0].attrs.id=this.textareaId})),Object(i.extend)(l.a.prototype,"configTextarea",(function(e,t,n,i){if(!n){var r=new s.a(t);r.disableInline(),r.ignoreTab(),i.onunload=function(){r.destroy()}}})),Object(i.extend)(l.a.prototype,"toolbarItems",(function(t){var n=function(t){return e.translator.trans("flarum-markdown.forum.composer."+t+"_tooltip")};t.add("markdown",m(h,{for:this.textareaId},
 m(T,{title:n("header"),icon:"fas fa-heading",style:{prefix:"## "}}),
-m(T,{title:n("bold"),icon:"fas fa-bold",style:{prefix:"**",suffix:"**",trimFirst:!0},hotkey:"b"}),
-m(T,{title:n("italic"),icon:"fas fa-italic",style:{prefix:"*",suffix:"*",trimFirst:!0},hotkey:"i"}),
+m(T,{title:n("bold"),icon:"fas fa-bold",style:{prefix:"[b]",suffix:"[/b]",trimFirst:!0},hotkey:"b"}),
+m(T,{title:n("italic"),icon:"fas fa-italic",style:{prefix:"[i]",suffix:"[/i]",trimFirst:!0},hotkey:"i"}),
+
 //# Custom button
 m(T,{title:n("underline"),icon:"fas fa-underline",style:{prefix:"[u]",suffix:"[/u]",trimFirst:!0},hotkey:"u"}),
-m(T,{title:n("strikethrough"),icon:"fas fa-strikethrough",style:{prefix:"~~",suffix:"~~",trimFirst:!0},hotkey:"s"}),
+m(T,{title:n("strikethrough"),icon:"fas fa-strikethrough",style:{prefix:"[s]",suffix:"[/s]",trimFirst:!0},hotkey:"s"}),
 m(T,{title:n("font_size"),icon:"fas fa-font",style:{prefix:"[size=]",suffix:"[/size]",trimFirst:!0,hotkey:"a"}}),
+m(T,{title:n("font_family"),icon:"fab fa-fonticons-fi",style:{prefix:"[font=]",suffix:"[/font]",trimFirst:!0 }}),
 m(T,{title:n("font_color"),icon:"fas fa-palette",style:{prefix:"[color=]",suffix:"[/color]",trimFirst:!0,hotkey:"c"}}),
+m(T,{title:n("bg_color"),icon:"fas fa-paint-brush",style:{prefix:"[bgcolor=]",suffix:"[/bgcolor]",trimFirst:!0 }}),
+
 m(T,{title:n("center"),icon:"fas fa-align-center",style:{prefix: '[center]', suffix: '[/center]'}}),
 
-m(T,{title:n("space_half"),icon:"far fa-square",style:{suffix:"&nbsp;"}}),
-m(T,{title:n("space_full"),icon:"fas fa-stop",style:{suffix:"&emsp;"}}),
+m(T,{title:n("ruby"),icon:"fas fa-chevron-up",style:{prefix: '[ruby=]', suffix: '[/ruby]'}}),
+
+//m(T,{title:n("space_half"),icon:"far fa-square",style:{suffix:"&nbsp;"}}),
+//m(T,{title:n("space_full"),icon:"fas fa-stop",style:{suffix:"&emsp;"}}),
 
 m(T,{title:n("link"),icon:"fas fa-link",style:{prefix:"[",suffix:"](url)",replaceNext:"url",scanFor:"https?://"}}),
 m(T,{title:n("image"),icon:"fas fa-image",style:{prefix:"![",suffix:"](src)",replaceNext:"src",scanFor:"https?://"}}),
 
 //#
-m(T,{title:n("quote"),icon:"fas fa-quote-left",style:{prefix:"> ",multiline:!0,surroundWithNewlines:!0,hotkey:"q"}}),
-m(T,{title:n("quote_auth"),icon:"fas fa-quote-right",style:{prefix:"[quote=]",suffix:"[/quote]",surroundWithNewlines:!0}}),
+// m(T,{title:n("quote"),icon:"fas fa-quote-left",style:{prefix:"> ",multiline:!0,surroundWithNewlines:!0,hotkey:"q"}}),
+m(T,{title:n("quote_auth"),icon:"fas fa-quote-left",style:{prefix:"[quote=]",suffix:"[/quote]",surroundWithNewlines:!0}}),
+
+m(T,{title:n("table"),icon:"fas fa-table",style:{prefix: '[table=50][tr][td]', suffix: '[/td][/tr][/table]'}}),
 
 m(T,{title:n("unordered_list"),icon:"fas fa-list-ul",style:{prefix:"- ",multiline:!0,surroundWithNewlines:!0}}),
 m(T,{title:n("ordered_list"),icon:"fas fa-list-ol",style:{prefix:"1. ",multiline:!0,orderedList:!0}}),
+
+m(T,{title:n("spoiler"),icon:"fas fa-eye-slash",style:{prefix: '[spoiler]', suffix: '[/spoiler]'}}),
+
+m(T,{title:n("heimu"),icon:"fas fa-stop",style:{prefix: '[heimu=]', suffix: '[/heimu]'}}),
 
 m(T,{title:n("code"),icon:"fas fa-code",style:{prefix:"`",suffix:"`",blockPrefix:"```",blockSuffix:"```"}}),
 //# Custom button
