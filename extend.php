@@ -309,10 +309,36 @@ return [
         
         // fancybox
         
+        /*
         (new Extend\Frontend('forum'))
         ->js(__DIR__.'/fancybox/js/dist/forum.js')
         ->css(__DIR__.'/fancybox/less/forum.less'),
         (new Extend\Locales(__DIR__ . '/fancybox/locale') ),
+        
+        */
+        
+        (new Extend\Frontend('forum'))
+        ->content(function (Document $document) {
+            $document->head[] = '<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>';
+            $document->head[] = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>';
+            $document->head[] = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">';
+            $document->foot[] = <<<HTML
+<script>
+ flarum.core.compat.extend.extend(flarum.core.compat['components/CommentPost'].prototype, 'oncreate', function(output, vnode) {
+  const self = this;
+  this.$('p.Post-paragraph img').not('.emoji').each(function ()
+  {
+   var currentImage = $(this);
+     $(this).wrap("<a data-fancybox='gallery' href='" + currentImage.attr("src") + "' </a>");
+  });
+});
+</script>
+HTML;
+        }),
+        
+        (new Extend\Frontend('forum'))
+        ->js(__DIR__.'/fancybox/js/dist/forum.js'),
+        
         
     
     ];

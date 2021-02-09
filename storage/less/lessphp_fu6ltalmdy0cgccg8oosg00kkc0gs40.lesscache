@@ -1,0 +1,65 @@
+<?php return  Array(0 =>  new Less_Tree_Comment('/* System Latin */
+',false,19, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),1 =>  new Less_Tree_Comment('/* @font-face {
+  font-family: \'System Latin\';
+  font-style: normal;
+  font-weight: 400;
+  src:  local(".HelveticaNeueDeskInterface-Light"),
+        local(".SFNSText-Light"),
+        local(".LucidaGrandeUI"),
+        local("Segoe UI Light"),
+        local("Ubuntu Light"),
+        local("Roboto-Light"),
+        local("DroidSans"),
+        local("Fira Sans"),
+        local("Cantarell"),
+        local("Oxygen");
+} */
+',false,438, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),2 =>  new Less_Tree_Comment('/* Simplified Chinese */
+',false,463, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),3 =>  new Less_Tree_Comment('/* @font-face {
+  font-family: \'System SC\';
+  font-style: normal;
+  font-weight: 400;
+  src:  local("PingFangSC-Light"),
+        local("HiraginoSansGB-W3"),
+        local("Microsoft YaHei UI"),
+        local("NotoSansCJKsc-Light"),
+        local("SourceHanSansSC-Light");
+} */
+',false,741, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),4 =>  new Less_Tree_Comment('/*  Traditional Chinese */
+',false,768, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),5 =>  new Less_Tree_Comment('/* @font-face {
+  font-family: \'System TC\';
+  font-style: normal;
+  font-weight: 400;
+  src:  local("PingFangTC-Light"),
+        local("HiraginoSansTC-W3"),
+        local("Microsoft JhengHei UI"),
+        local("NotoSansCJKtc-Light"),
+        local("SourceHanSansTC-Light");
+} */
+',false,1049, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),6 =>  new Less_Tree_Comment('/* Monospace */
+',false,1065, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),7 =>  new Less_Tree_Comment('/* @font-face {
+  font-family: \'System Mono\';
+  font-style: normal;
+  font-weight: 400;
+  src:  local("SFMono-Light"),
+        local("SourceCodePro-Light"),
+        local("Menlo"),
+        local("Consolas"),
+        local("Courier New");
+} */
+',false,1309, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),8 =>  new Less_Tree_Comment('/* Emoji */
+',false,1321, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),9 =>  new Less_Tree_Comment('/* @font-face {
+  font-family: \'System Emoji\';
+  font-style: normal;
+  font-weight: normal;
+  src:  local("AppleColorEmoji"),
+        local("Android Emoji"),
+        local("SourceEmoji-BnW"),
+        local("Segoe UI Emoji"),
+        local("Segoe UI Symbol");
+  unicode-range: U+1F300-1F5FF, U+1F600-1F64F, U+1F680-1F6FF, U+2600-27FF;
+}
+
+body { font-family: -apple-system, BlinkMacSystemFont, \'System Latin\', \'System Emoji\', \'System SC\', sans-serif; }
+code, pre { font-family: \'System Mono\', Monospace; } */
+',false,1828, Array('entryPath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','entryUri' => '','rootpath' => '/home/bzls8g1evy0v/public_html/forum/vendor/flarum/core/less/common/','currentDirectory' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/','currentUri' => 'config.css','filename' => '/home/bzls8g1evy0v/public_html/forum/vendor/littlegolden/flarum-lang-simplified-chinese/locale/config.css','uri_root' => '',)),); ?>

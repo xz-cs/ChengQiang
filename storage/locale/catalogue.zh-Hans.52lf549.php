@@ -1101,9 +1101,6 @@ Thank you for your understanding.',
     'fof-links.ref.links' => 'Links',
     'fof-links.ref.title' => 'Title',
     'fof-links.ref.url' => 'Url',
-    'fancybox.forum.next' => 'Next',
-    'fancybox.forum.prev' => 'Previous',
-    'fancybox.forum.error' => 'An error occured loading the image.',
   ),
 ));
 $catalogueZh->addFallbackCatalogue($catalogueEn);
